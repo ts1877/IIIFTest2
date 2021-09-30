@@ -1,0 +1,13 @@
+{
+  "id" : "https://ts1877.github.io/IIIFTest2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ts1877/IIIFTest2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ts1877.github.io/IIIFTest2/manifests/manifest.json",
+    "label" : "Leptis Magna"
+  } ]
+}
